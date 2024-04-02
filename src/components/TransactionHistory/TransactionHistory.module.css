@@ -1,0 +1,26 @@
+.tHead{
+    background-color: #2c2d2c;
+    color: #fff;
+    border: 1px solid black;
+}
+.tableTr{
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+.tName{
+    padding: 8px;
+}
+.tBody{
+    width: 100%;
+
+}
+.column:nth-child(odd) {
+    background-color: white;
+    text-align: center;
+  }
+  
+ .column:nth-child(even) {
+    background-color: lightgray;  
+    text-align: center;
+  }
