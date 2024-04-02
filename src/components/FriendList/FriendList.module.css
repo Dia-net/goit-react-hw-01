@@ -1,13 +1,12 @@
-
-.list{
-display: flex;
-justify-content: center;
-gap: 12px;
-padding: 0;
-text-align: center;
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  padding: 0;
+  text-align: center;
 }
-.friendsCard{
-    border: 2px solid #222222;
-    border-radius: 8px;
-    padding: 16px;
+.friendsCard {
+  border: 2px solid #222222;
+  border-radius: 8px;
+  padding: 16px;
 }

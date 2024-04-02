@@ -1,52 +1,52 @@
-.container{
-    width: 300px;
- border: 3px solid #222222;
- border-radius: 8px;
- margin: 20px auto;
+.container {
+  width: 300px;
+  border: 3px solid #222222;
+  border-radius: 8px;
+  margin: 20px auto;
 }
-.avatar{
-    width: 120px;
-    border-radius: 50%;
-    background-color: #222222;
+.avatar {
+  width: 120px;
+  border-radius: 50%;
+  background-color: #222222;
 }
-.userInfo{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 16px
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
 }
-.nameUser{
-    margin: 16px 0 8px;
-    font-size: 24px;
-    font-weight: 700;
+.nameUser {
+  margin: 16px 0 8px;
+  font-size: 24px;
+  font-weight: 700;
 }
-.userTag{
-    margin: 0;
-    color: grey;
+.userTag {
+  margin: 0;
+  color: grey;
 }
-.userLocation{
-    margin: 8px 0 0;
-    color: grey;
+.userLocation {
+  margin: 8px 0 0;
+  color: grey;
 }
-.userStats{
-    display: flex;
-    background-color: 	#A9A9A9;
-    margin: 0;
-    padding: 0;
+.userStats {
+  display: flex;
+  background-color: #a9a9a9;
+  margin: 0;
+  padding: 0;
 }
-.statsInfo{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-    border-top: 2px solid grey;
-    width: calc(100% / 3);
-    color: black;
+.statsInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-top: 2px solid grey;
+  width: calc(100% / 3);
+  color: black;
 }
-.statsInfo:not(:last-child){
-    border-right: 2px solid grey;
+.statsInfo:not(:last-child) {
+  border-right: 2px solid grey;
 }
-.statsNumber{
-    font-weight: 700;
+.statsNumber {
+  font-weight: 700;
 }

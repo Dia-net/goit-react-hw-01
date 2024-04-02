@@ -1,16 +1,16 @@
-.friendAvatar{
-    margin: 0 auto;
+.friendAvatar {
+  margin: 0 auto;
 }
-.friendName{
-    font-weight: 600;
-    margin: 12px 0 0
-    }
-.isOnline{
-    color: green;
+.friendName {
+  font-weight: 600;
+  margin: 12px 0 0;
 }
-.isOffline{
-    color: red
+.isOnline {
+  color: green;
 }
-.text{
-    margin: 4px 0 0
+.isOffline {
+  color: red;
+}
+.text {
+  margin: 4px 0 0;
 }
